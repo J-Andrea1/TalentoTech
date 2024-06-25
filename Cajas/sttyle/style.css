@@ -1,0 +1,25 @@
+#caja1{
+    width: 100px;
+    height: 70px;
+    background: aqua;
+    display: inline-block;
+}
+#caja2{
+    width: 150px;
+    height: 100px;
+    background: pink;
+    display: inline-block;
+}
+#caja3{
+    width: 130px;
+    height: 90px;
+    background: violet;
+    display: inline-block;
+}
+
+#caja4{
+    width: 120px;
+    height: 80px;
+    background: lightgreen;
+    display: inline-block;
+}

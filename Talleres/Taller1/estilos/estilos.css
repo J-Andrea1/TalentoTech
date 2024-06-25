@@ -1,0 +1,14 @@
+table
+    {
+        background-color: rgb(31, 199, 185);
+    }
+
+th
+    {
+        border: 2px solid black;
+    }
+
+td
+    {
+        border: 2px solid black;
+    }

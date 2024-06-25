@@ -1,0 +1,38 @@
+.barra{
+    background:pink;
+    font-size: 30px;
+    padding: 1em;
+
+}
+.barra ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+.barra ul li a{
+    text-decoration: none;
+    color: brown;
+}
+.barra ul li a:hover{
+    color: chartreuse;
+}
+.barra2{
+    background: hsl(0, 100%, 50%);
+    padding: 1rem;
+
+}
+.hover{
+    color: #fff;
+    text-decoration: none;
+}
+.hover:hover{
+    color: aqua;
+    
+}
+.barra2 ul{
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+}

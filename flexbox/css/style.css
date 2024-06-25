@@ -1,0 +1,31 @@
+html{
+    font-family: sans-serif;
+    
+}
+header{
+    background: purple;
+    height: 100px;
+}
+body {
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+}
+article {
+    padding: 10px;
+    margin: 10px;
+    background: violet;
+    color: white;
+    flex: 200px;
+}
+.contenedor1{
+    display: flex;   
+    flex-wrap: wrap;
+}
+.contenedor2{
+    display: flex;
+}

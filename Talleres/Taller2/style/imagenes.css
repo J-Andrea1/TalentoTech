@@ -1,0 +1,18 @@
+#mi-foto{
+    width: 100%;
+}
+.cabecera{
+    background-image: url("../img/kandinsky.jpg");
+}
+#indice{
+    background-image: url("../img/monet.gif");
+}
+.contenido{
+    background-image: url("../img/monet2.jpg");
+}
+#pie{
+    background-image: url("../img/water-fizzle.jpg");
+}
+
+
+

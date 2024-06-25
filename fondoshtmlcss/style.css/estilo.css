@@ -1,0 +1,14 @@
+.fondo{
+    background-image: url('../img/fondoHoja.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    color: white;
+}

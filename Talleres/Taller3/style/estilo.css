@@ -1,0 +1,22 @@
+nav{
+    background: linear-gradient(to right,violet,blue);
+    padding: 20px;
+    text-align: center;
+    position: relative;       
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    display: inline-block;
+    margin-right: 50px;     
+}
+nav a{
+    color: aqua;
+    text-decoration: none; 
+}
+nav a :hover{
+    background: green;
+}
