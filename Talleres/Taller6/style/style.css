@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+header{
+    padding: 5px;
+    margin-top: 5px;
+    background: aqua;
+    color: violet;
+    font-size: 35px;
+    font-weight: lighter;
+}
+.encabezado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.encabezado img{    
+    width: 200px;
+    border-radius: 5px;
+    display: block;
+    max-width: 100%;
+    height: auto;    
+}  
+
+h1{
+    font-family: "Playwrite PL";
+}
+h2{
+    font-family:"Playwrite PL";
+}
+p{
+    font-family: "Playwrite PL";    
+}
+.navbar ul{
+    background: lightcyan;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;    
+}
+.navbar ul li{
+    list-style: none;
+    padding: 10px;
+
+
+    a{
+        text-decoration: none;
+        color: blueviolet;
+    }
+}
